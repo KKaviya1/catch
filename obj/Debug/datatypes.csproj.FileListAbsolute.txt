@@ -1,0 +1,8 @@
+F:\day - 3\datatypes\datatypes\bin\Debug\datatypes.exe.config
+F:\day - 3\datatypes\datatypes\bin\Debug\datatypes.exe
+F:\day - 3\datatypes\datatypes\bin\Debug\datatypes.pdb
+F:\day - 3\datatypes\datatypes\obj\Debug\datatypes.csproj.AssemblyReference.cache
+F:\day - 3\datatypes\datatypes\obj\Debug\datatypes.csproj.SuggestedBindingRedirects.cache
+F:\day - 3\datatypes\datatypes\obj\Debug\datatypes.csproj.CoreCompileInputs.cache
+F:\day - 3\datatypes\datatypes\obj\Debug\datatypes.exe
+F:\day - 3\datatypes\datatypes\obj\Debug\datatypes.pdb
